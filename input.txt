@@ -1,0 +1,261 @@
+begin
+# Variable Declaration and assign
+int temp , temp2 ;
+int temp ;
+int d = 45 ;
+int age = 23;
+show (age);
+a = 50;
+deci age_age ;
+deci var = -66;
+deci dff = -8.9;
+str myname = 'Md Safwan Zaher Asif';
+show (myname);
+NL
+NL
+NL
+/* This is a multiline comment */
+# Array declaration and initialization
+# This is an integer array
+int array course[6] ;
+# This is a double array
+deci array xyz[7] ;
+xys[0] = 1 ;
+ 
+show ( temp2 );
+NL
+NL
+NL
+/* More array operations */
+NL
+NL
+int array pq[10];
+pq[0] = 5 ;
+pq[2] = 56.03 ;
+show( pq[0] );
+NL
+NL
+
+# Mathematical Expressions
+int test1;
+show('Normal Mathematical Operations');
+NL
+show ( 3 plus 5 ) ; 
+NL
+show  ( 5 mod 2 plus 7 ) ; 
+NL
+show ( 2 power 3 power 2 ) ;
+NL
+show ( abs -66 ) ;
+NL
+show ( fact (pq[2]) ) ;
+NL
+show ( fact (2 plus 3) ) ;
+NL
+show(cos ( 100 ) );
+NL
+show(sin ( 100 ) );
+NL
+show(log10 ( 100 ) );
+NL
+show(tan ( 100 ) );
+NL
+show(log2 ( 100 ) );
+NL
+
+# Relational Expressions
+show( 1 grt 3 ) ;
+NL
+show( 1 le 3 ) ;
+NL
+show( 1 eqe 3 ) ;
+NL
+show( 1 ne 3 ) ;
+NL
+show( 1 le 3 );
+NL
+
+# Logical Expressions
+
+show( 40 or (1 grt 3) ) ;
+NL
+show( (1 ne 3) and 0 ) ;
+NL
+show( not 0 ) ;
+NL
+
+
+# Increment Operations
+int var1 = 6;
+int var3 , var2;
+var2 = var1 incre ;
+var3 = incre var1 ;
+show (var1 incre);
+NL
+show (var2);
+NL
+show(var2);
+NL
+show(var3);
+NL
+
+
+# Decrement Operations
+int var4 = 6;
+int var5 , var6;
+var5 = var4 decre ;
+var6 = decre var4 ;
+show (var1 decre);
+NL
+show (var4);
+NL
+show(var5);
+NL
+show(var6);
+NL
+
+
+
+
+# IF ELSE LADDER with NESTED IF/ELSE
+NL
+if [ 1 less 3 ] 
+{
+   if [ not 0 ]
+   {
+      show ('Hello');
+   }
+   elif [ 2 grt 1 ] 
+   {
+      show ( 'Hola');
+   }
+   else 
+   {
+      show ( 'Hi');
+   };
+};
+NL
+
+# Basic Switch case 
+choose 5 : {
+match 5 : 
+{
+    show('5 matched');
+
+}
+match 6 :
+{
+    show('6 not matched');
+
+}
+default:
+{
+    show('default not matched');
+}
+};
+
+
+
+
+# Switch case with if/else and loop
+NL
+choose 5 : {
+match 5 : 
+{
+   show('5 matched');
+   NL
+}
+match 5.7 : 
+{
+   if [ not 0 ]
+   {
+      show('inside if block');
+   };
+   NL
+}
+match 6 :
+{
+   loop2 [ 9 ge 3 ] 
+   {
+      show ( 'Inside while loop' );
+      NL
+   };
+}
+default: 
+{
+   show('default checking');
+   NL
+}
+
+};
+NL
+show( ' switch ends here ' );
+
+
+
+#For loop defined as loop1
+loop1 [ range 1 -- 5 ] {
+show('abc');
+};
+
+
+#If inside for loop 
+int a;
+loop1 [ a = 1 -- 5 le 10 -- 7 le 5 ] {
+show(a);
+NL
+if [ 1 less 3 ] {
+    if [ not 0 ]
+    {
+        show( 7 plus 6);
+        NL
+    }    
+    else 
+    {
+        show('inside else');
+        NL
+    };
+
+show ( 'Testing basic for loop' ); } ;
+NL
+};
+
+
+#While loop
+NL
+loop2 [ 10 ge 5 ] 
+{
+    show ( 'Tesing for basic while loop' );
+    NL
+};
+
+
+#do while loop
+NL
+repeat 
+{
+    show ( 'Testing for basic do while loop' );
+    loop2 [ 10 ge 5 ] {
+    show ( ' testing the while loop inside the do/while loop' );
+};
+} loop2 [ 10 ge 5 ] ;
+#range for loop
+NL
+
+
+#if/else and loops together
+if [ 1 less 3 ] {
+int whileloop = 9;
+loop2 [ whileloop ge 3 ] {
+show ( 'testing the while loop' );
+};
+};
+
+
+
+#Function Declaration
+func hell [ int x ];
+
+
+
+end

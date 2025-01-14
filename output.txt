@@ -1,0 +1,277 @@
+
+Single Line Comment! The Comment is: 
+Variable Declaration and assign
+
+Successfully Declared Integer.
+
+Successful Declaration
+
+temp is declared before.
+
+Successfully Declared Integer.
+
+Successful Declaration
+
+Successfully Declared Integer.
+
+Successful Declaration
+
+Successfully Declared Integer.
+
+Successful Declaration
+Integer Variable, age = 23
+Variable a not declared.
+
+Successful Assignment
+
+Successfully Declared Real Number.
+
+Successful Declaration
+
+Successfully Declared Real Number.
+
+Successful Declaration
+
+Successfully Declared Real Number.
+
+Successful Declaration
+
+Successfully Declared Text.
+
+Successful Declaration
+Text Variable, myname = Md Safwan Zaher Asif
+
+
+
+
+Multiline Comment! The Comment is: 
+This is a multiline comment 
+
+Single Line Comment! The Comment is: 
+Array declaration and initialization
+
+Single Line Comment! The Comment is: 
+This is an integer array
+
+Successfully Declared Integer Array.
+
+Successful Declaration
+
+Single Line Comment! The Comment is: 
+This is a double array
+
+Successfully Declared Real Array.
+
+Successful Declaration
+
+Variable xys not declared
+Integer Variable, temp2 = 0
+
+
+
+Multiline Comment! The Comment is: 
+More array operations 
+
+
+
+Successfully Declared Integer Array.
+
+Successful Declaration
+5.000000
+
+
+Single Line Comment! The Comment is: 
+Mathematical Expressions
+
+Successfully Declared Integer.
+
+Successful Declaration
+Normal Mathematical Operations 
+
+8.000000
+8.000000
+64.000000
+66.000000
+
+Factorial is 06908521828386340900.000000
+
+Factorial is 0120.000000
+0.862319
+-0.506366
+2.000000
+-0.587214
+6.643856
+
+Single Line Comment! The Comment is: 
+Relational Expressions
+0.000000
+1.000000
+0.000000
+1.000000
+1.000000
+
+Single Line Comment! The Comment is: 
+Logical Expressions
+1.000000
+0.000000
+1.000000
+
+Single Line Comment! The Comment is: 
+Increment Operations
+
+Successfully Declared Integer.
+
+Successful Declaration
+
+Successfully Declared Integer.
+
+Successful Declaration
+
+Successful Assignment
+
+Successful Assignment
+8.000000
+Integer Variable, var2 = 6
+Integer Variable, var2 = 6
+Integer Variable, var3 = 8
+
+Single Line Comment! The Comment is: 
+Decrement Operations
+
+Successfully Declared Integer.
+
+Successful Declaration
+
+Successfully Declared Integer.
+
+Successful Declaration
+
+Successful Assignment
+
+Successful Assignment
+9.000000
+Integer Variable, var4 = 4
+Integer Variable, var5 = 6
+Integer Variable, var6 = 4
+
+Single Line Comment! The Comment is: 
+IF ELSE LADDER with NESTED IF/ELSE
+
+Hello 
+
+Inside If Block
+Hola 
+
+Inside elseif Block
+Hi 
+
+Inside If Block
+
+
+Single Line Comment! The Comment is: 
+Basic Switch case 
+5 matched 
+6 not matched 
+default not matched 
+
+default case
+
+Inside switch statement (integer)
+
+Single Line Comment! The Comment is: 
+Switch case with if/else and loop
+
+5 matched 
+
+
+5 integer matched
+inside if block 
+
+Inside If Block
+
+Inside while loop 
+
+while loop will be executed
+default checking 
+
+
+default case
+
+Inside switch statement (integer)
+
+ switch ends here  
+
+Single Line Comment! The Comment is: 
+For loop defined as loop1
+abc 
+
+For loop with range
+
+Iteration Number 1 
+
+Iteration Number 2 
+
+Iteration Number 3 
+
+Iteration Number 4 
+
+Iteration Number 5 
+
+range for loop ran 5 times 
+
+Single Line Comment! The Comment is: 
+If inside for loop 
+
+Successfully Declared Integer.
+
+Successful Declaration
+Integer Variable, a = 1
+13.000000
+
+Inside If Block
+inside else 
+
+
+Inside if else Block
+Testing basic for loop 
+
+Inside If Block
+
+
+inside for loop
+
+Single Line Comment! The Comment is: 
+While loop
+
+Tesing for basic while loop 
+
+while loop will be executed
+
+Single Line Comment! The Comment is: 
+do while loop
+
+Testing for basic do while loop 
+ testing the while loop inside the do/while loop 
+while loop will be executed
+
+Do while loop
+
+Single Line Comment! The Comment is: 
+range for loop
+
+
+Single Line Comment! The Comment is: 
+if/else and loops together
+
+Successfully Declared Integer.
+
+Successful Declaration
+testing the while loop 
+while loop will be executed
+
+Inside If Block
+
+Single Line Comment! The Comment is: 
+Function Declaration
+function declared
+The program starts
